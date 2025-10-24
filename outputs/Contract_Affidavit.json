@@ -1,0 +1,33 @@
+{
+  "bid_number": null,
+  "title": "Affidavit for Compliance Certifications",
+  "due_date": null,
+  "bid_submission_type": null,
+  "term_of_bid": null,
+  "pre_bid_meeting": null,
+  "installation": null,
+  "bid_bond_requirement": null,
+  "delivery_date": null,
+  "payment_terms": null,
+  "additional_documentation_required": [
+    "Certification of Registration with State Department of Assessments and Taxation",
+    "Financial Disclosure Affirmation",
+    "Political Contribution Disclosure Affirmation",
+    "Drug and Alcohol-Free Workplace Certification"
+  ],
+  "mfg_for_registration": null,
+  "contract_or_cooperative_to_use": null,
+  "model_no": null,
+  "part_no": null,
+  "product": null,
+  "contact_info": {
+    "contact_name": null,
+    "email": null,
+    "phone": null,
+    "company_name": "A. AUTHORITY"
+  },
+  "company_name": "A. AUTHORITY",
+  "bid_summary": "This document outlines required affirmations and certifications for businesses contracting with the State of Maryland or its agencies. It covers legal authority, state registration and good standing, financial disclosure obligations for contracts exceeding $100,000, political contribution disclosure for contracts over $200,000, and mandatory drug and alcohol-free workplace policies. Compliance with these affirmations is a condition for contract award and continued performance, with potential penalties for non-compliance.",
+  "product_specification": "requires that every person that enters into a procurement contract with the",
+  "value": null
+}

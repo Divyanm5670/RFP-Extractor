@@ -1,0 +1,38 @@
+{
+  "bid_number": "JA-207652",
+  "title": "Student and Staff Computing Devices",
+  "due_date": null,
+  "bid_submission_type": null,
+  "term_of_bid": "life of the contract",
+  "pre_bid_meeting": null,
+  "installation": "Deliveries and deployments must include white glove services, such as asset decaling, asset reporting, etching on laptops, and delivery to varied locations. For Windows devices, Autopilot is required; for Chromebooks, enrollment in Google Management is required. Both etching and asset tagging are required. No securing of desktops is required.",
+  "bid_bond_requirement": null,
+  "delivery_date": "Starting September 2024",
+  "payment_terms": null,
+  "additional_documentation_required": [
+    "Form 1295 - Certificate of Interested Parties",
+    "Signed Addendum No. 1",
+    "Copies of proposal",
+    "Additional warranty options and pricing",
+    "Additional non-warranty value-add options",
+    "Additional deployment service options",
+    "Table for discount percentage per tier",
+    "Break-fix repair programs information",
+    "Supporting documentation for extended responses"
+  ],
+  "mfg_for_registration": "OEM for all warranties",
+  "contract_or_cooperative_to_use": null,
+  "model_no": null,
+  "part_no": null,
+  "product": null,
+  "contact_info": {
+    "contact_name": null,
+    "email": null,
+    "phone": null,
+    "company_name": "Dallas ISD"
+  },
+  "company_name": "Dallas ISD",
+  "bid_summary": "This addendum provides responses to vendor questions for RFP JA-207652, concerning student and staff computing devices. It clarifies requirements for delivery timelines, warranty specifications (OEM, duration, ADP), white-glove services, technical specifications (USB ports, webcam, chargers), required documentation, and submission guidelines.",
+  "product_specification": "Minimum USB 3.1 port required for non-touch display monitors. Etching is only required on laptops, but both etching and asset tagging are required for all devices. Warranties must be from the OEM: 1-year for student Chromebooks and 3-years for student and staff Windows laptops. Accidental Damage Protection is not required. AIO Desktops must include a webcam. Windows devices require Autopilot setup, and Chromebooks require Google Management enrollment. Laptop battery life is based on manufacturer specs. Minimum 65w chargers for Chromebooks.",
+  "value": null
+}

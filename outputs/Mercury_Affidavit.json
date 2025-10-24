@@ -1,0 +1,30 @@
+{
+  "bid_number": null,
+  "title": "MERCURY AFFIDAVIT",
+  "due_date": null,
+  "bid_submission_type": null,
+  "term_of_bid": null,
+  "pre_bid_meeting": null,
+  "installation": null,
+  "bid_bond_requirement": null,
+  "delivery_date": null,
+  "payment_terms": null,
+  "additional_documentation_required": [
+    "Mercury Affidavit"
+  ],
+  "mfg_for_registration": null,
+  "contract_or_cooperative_to_use": null,
+  "model_no": null,
+  "part_no": null,
+  "product": "or product component that contains",
+  "contact_info": {
+    "contact_name": null,
+    "email": null,
+    "phone": null,
+    "company_name": null
+  },
+  "company_name": null,
+  "bid_summary": "This document is a Mercury Affidavit, requiring an authorized representative of a business to affirm whether their offered products contain mercury. If mercury is present, the affidavit demands a description of the mercury-containing product or component and the amount of mercury. The representative acknowledges that the affidavit will be furnished to the procurement officer and may be distributed to various state and federal government units, subject to applicable United States and Maryland laws.",
+  "product_specification": null,
+  "value": null
+}
