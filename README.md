@@ -35,34 +35,29 @@ git clone https://github.com/Divyanm5670/RFP-Extractor.git
 cd RFP-Extractor
 ```
 
-# 2. Create a virtual environment
+ 2. **Create a virtual environment**
 ```bash
 python -m venv venv
 ```
 
-# 3. Activate the virtual environment
+ 3. **Activate the virtual environment**
 
-# Windows (PowerShell)
+ Windows (PowerShell)
 ```bash
 .\venv\Scripts\Activate.ps1
 ```
 
-# Windows (CMD)
-```bash
-.\venv\Scripts\activate.bat
-```
-
-# Linux / MacOS
+ Linux / MacOS
 ```bash
 source venv/bin/activate
 ```
 
-# 4. Install dependencies
+ 4. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-# 5. Run the extractor
+ 5. **Run the extractor**
 ```bash
 python extract.py
 ```
