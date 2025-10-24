@@ -1,6 +1,6 @@
 {
   "bid_number": null,
-  "title": "Affidavit for Compliance Certifications",
+  "title": "14, Annotated",
   "due_date": null,
   "bid_submission_type": null,
   "term_of_bid": null,
@@ -10,10 +10,10 @@
   "delivery_date": null,
   "payment_terms": null,
   "additional_documentation_required": [
-    "Certification of Registration with State Department of Assessments and Taxation",
-    "Financial Disclosure Affirmation",
-    "Political Contribution Disclosure Affirmation",
-    "Drug and Alcohol-Free Workplace Certification"
+    "Certification of registration or qualification with the State Department of Assessments and Taxation",
+    "Financial disclosure filings with the Secretary of State of Maryland (if contracts reach $100,000 aggregate)",
+    "Political contribution disclosure statements with the State Board of Elections (if contracts reach $200,000 aggregate)",
+    "Internal drug and alcohol-free workplace policy statement for employees"
   ],
   "mfg_for_registration": null,
   "contract_or_cooperative_to_use": null,
@@ -27,7 +27,7 @@
     "company_name": "A. AUTHORITY"
   },
   "company_name": "A. AUTHORITY",
-  "bid_summary": "This document outlines required affirmations and certifications for businesses contracting with the State of Maryland or its agencies. It covers legal authority, state registration and good standing, financial disclosure obligations for contracts exceeding $100,000, political contribution disclosure for contracts over $200,000, and mandatory drug and alcohol-free workplace policies. Compliance with these affirmations is a condition for contract award and continued performance, with potential penalties for non-compliance.",
+  "bid_summary": "This document is a required affidavit for businesses contracting with the State of Maryland. It affirms the business's legal authority and certifies its compliance with state registration requirements, financial disclosure laws (for contracts over $100,000 aggregate), political contribution disclosure laws (for contracts over $200,000 aggregate), and drug and alcohol-free workplace policies. It ensures the business's good standing and commitment to various state regulations.",
   "product_specification": "requires that every person that enters into a procurement contract with the",
   "value": null
 }
