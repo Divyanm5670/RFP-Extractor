@@ -1,30 +1,28 @@
 {
-  "bid_number": "CC7802",
-  "title": "Dell Latitude 5550 Quote",
+  "bid_number": null,
+  "title": "shall transfer from Supplier to FS instead of to Customer. If FS",
   "due_date": null,
   "bid_submission_type": null,
-  "term_of_bid": "Pricing valid for 30 days from quote date",
+  "term_of_bid": null,
   "pre_bid_meeting": null,
-  "installation": "Factory Install",
+  "installation": null,
   "bid_bond_requirement": null,
   "delivery_date": null,
-  "payment_terms": "Customer issues a purchase order. Supplier will invoice Dell Financial Services (FS) if a financing arrangement is in place, or the customer directly if financing is not pursued within 120 days post-shipment. Taxes, shipping, and other charges are extra. The total minimum payment due is the greater of $20 or 3% of the new balance plus all past due amounts. Dell Business Credit is available.",
-  "additional_documentation_required": [
-    "Tax exemption certificate"
-  ],
+  "payment_terms": null,
+  "additional_documentation_required": null,
   "mfg_for_registration": null,
-  "contract_or_cooperative_to_use": "Dell’s Terms of Sale (www.dell.com/terms or www.dell.com/oemterms) or a separate written agreement.",
-  "model_no": "Latitude 5550",
+  "contract_or_cooperative_to_use": null,
+  "model_no": "MTL",
   "part_no": null,
-  "product": "Dell Latitude 5550",
+  "product": "warranty-and-service-descriptions.htm.",
   "contact_info": {
     "contact_name": null,
     "email": "Tax_Department@dell.com",
     "phone": null,
-    "company_name": "Dell Marketing LP."
+    "company_name": "services on this Quote with Dell Financial Services LLC"
   },
-  "company_name": "Dell Marketing LP.",
-  "bid_summary": "This document is a detailed quote for a Dell Latitude 5550 laptop, outlining its technical specifications, components, and terms of sale. It covers details such as processor, operating system, memory, storage, display, connectivity, battery, and additional features. The quote also specifies the governing terms, software license agreements, service descriptions, and financing options, alongside requirements for customer-provided documentation like tax exemption certificates.",
-  "product_specification": "The Dell Latitude 5550 XCTO Base features an Intel Core Ultra 5 125U processor (12 cores, up to 4.3 GHz Turbo), Windows 11 Pro, and integrated Intel graphics. It includes 16 GB DDR5 5600 MT/s RAM, a 256 GB M.2 2230 TLC Gen 4 PCIe NVMe SSD, and a 15.6\" FHD (1920x1080) 60Hz IPS Non-Touch Anti-Glare display with 250 nits brightness and 45% NTSC. Connectivity is handled by Intel Wi-Fi 6E AX211 (802.11ax, 2x2) and Bluetooth 5.3. The laptop comes with a 3-cell, 54 Wh ExpressCharge Capable battery, a 65W USB Type-C AC adapter, and an English US backlit AI hotkey keyboard with numeric keypad. It also features an FHD HDR RGB Camera with TNR and camera shutter. The system is ENERGY STAR Qualified and EPEAT 2018 Registered (Gold), with support for Windows AutoPilot.",
+  "company_name": "services on this Quote with Dell Financial Services LLC",
+  "bid_summary": "SI# CC7802 Dell Latitude 5550 SKU Description 210-BLYZ Dell Latitude 5550 XCTO Base Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ threads, up to 4.3 GHz Turbo) Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB Spanish 658-BCSB...",
+  "product_specification": "AutoPilot",
   "value": null
 }

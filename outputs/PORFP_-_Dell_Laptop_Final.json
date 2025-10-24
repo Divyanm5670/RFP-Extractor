@@ -1,32 +1,28 @@
 {
-  "bid_number": "#E20P4600040",
-  "title": "Purchase Order Request for Proposals (PORFP) Hardware Master Contract",
-  "due_date": "2024-06-10 2:00 PM EDT",
-  "bid_submission_type": "eMaryland Marketplace Advantage (eMMA) e-Procurement system",
-  "term_of_bid": "Proposals/quotes must be valid for at least 90 days after the due date.",
+  "bid_number": null,
+  "title": "line,",
+  "due_date": null,
+  "bid_submission_type": "Purchase Order Request for Proposal (PORFP) responses will only",
+  "term_of_bid": null,
   "pre_bid_meeting": null,
   "installation": null,
   "bid_bond_requirement": null,
-  "delivery_date": "Within 45 days of Award",
-  "payment_terms": "Invoices to be emailed to STOaccountspayable@treasurer.state.md.us within 10 days of delivery, including contractor details, PORFP number, date, invoice number, amount due, proof of delivery, packing slip/confirmation, and equipment serial numbers.",
-  "additional_documentation_required": [
-    "Letter of Authorization (LOA) from Manufacturer or Distributor (if requested)",
-    "Mercury Affidavit",
-    "Warranty certificate or Affidavit"
-  ],
-  "mfg_for_registration": "Dell",
-  "contract_or_cooperative_to_use": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007",
+  "delivery_date": null,
+  "payment_terms": null,
+  "additional_documentation_required": null,
+  "mfg_for_registration": null,
+  "contract_or_cooperative_to_use": null,
   "model_no": null,
   "part_no": null,
-  "product": null,
+  "product": "Business Need / Office is in need of a refresh of laptops and must acquire enough",
   "contact_info": {
-    "contact_name": "Tamaira Hawkins",
+    "contact_name": null,
     "email": "thawkins@treasurer.state.md.us",
     "phone": "410-260-7533",
-    "company_name": "State Treasurer's Office/Information Technology"
+    "company_name": null
   },
-  "company_name": "State Treasurer's Office",
-  "bid_summary": "This is a Small Business Reserve (SBR) Purchase Order Request for Proposal (PORFP) under the Hardware Master Contract for the State Treasurer's Office. It is limited to Master Contractors awarded under the Desktop, Laptop and Tablet 2015 Master Contract. The PORFP is for the procurement of Dell Latitude 5550 laptops and Dell Thunderbolt 4 Docks, along with a 3-year extended warranty, to refresh equipment for MD529 employees.",
-  "product_specification": "The State Treasurer's Office requires a refresh of laptops to accommodate MD529 employees. The procurement includes 30 Dell Latitude 5550 laptops, which must be Microsoft Copilot ready, and 30 Dell Thunderbolt 4 Dock – WD22TB4 units. Additionally, a 3-year Dell Limited Hardware Warranty Extended is required for all machines purchased, starting from the date of delivery. Deliverables include a warranty certificate or affidavit upon award.",
+  "company_name": null,
+  "bid_summary": "Purchase Order Request for Proposals (PORFP) Hardware Master Contract Section 1 –General Information PORFP Number: #E20P4600040 eMMA Project Number: BPM044557 PORFP Type: Fixed Price Functional Area/s (FA) FA I (Printers and Associated Peripherals) for this PORFP: FA V (Manufacturer’s Extended Warranty) Manufacturer Name Dell Designated Small Yes...",
+  "product_specification": "Warranty)",
   "value": null
 }

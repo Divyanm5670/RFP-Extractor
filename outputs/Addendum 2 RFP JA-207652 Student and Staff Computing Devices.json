@@ -1,7 +1,7 @@
 {
   "bid_number": "JA-207652",
-  "title": "Student and Staff Computing Devices",
-  "due_date": "2024-07-09",
+  "title": "Address: City, State and Zip Code:",
+  "due_date": null,
   "bid_submission_type": null,
   "term_of_bid": null,
   "pre_bid_meeting": null,
@@ -9,15 +9,12 @@
   "bid_bond_requirement": null,
   "delivery_date": null,
   "payment_terms": null,
-  "additional_documentation_required": [
-    "Signed Addendum",
-    "Proposal copies"
-  ],
+  "additional_documentation_required": null,
   "mfg_for_registration": null,
   "contract_or_cooperative_to_use": null,
   "model_no": null,
   "part_no": null,
-  "product": null,
+  "product": "RFP JA-207652 Student and Staff Computing Devices The Purpose of this Addendum is to extend the due date of this RFP. The new due date for this RFP will be July 9, 2024 at 2:00 PM CST. The information in this Addendum is hereby incorporated and mad",
   "contact_info": {
     "contact_name": null,
     "email": null,
@@ -25,7 +22,7 @@
     "company_name": null
   },
   "company_name": null,
-  "bid_summary": "Addendum No. 2 extends the due date for RFP JA-207652, Student and Staff Computing Devices, to July 9, 2024, at 2:00 PM CST. Bidders are required to acknowledge, sign, and submit this addendum along with their proposal.",
+  "bid_summary": "ADDENDUM No. 2 RFP JA-207652 Student and Staff Computing Devices The Purpose of this Addendum is to extend the due date of this RFP. The new due date for this RFP will be July 9, 2024 at 2:00 PM CST. The information in this Addendum is hereby incorporated and made part of any contract awarded pursuant to this solicitation. Please sign this addendum and submit along with your copies of the proposal. ALL OTHER PROVISIONS AND OTHER TERMS AND CONDITIONS REMAIN UNCHANGED. BIDDERS ARE REQUIRED TO ACKNOWLEDGE AND RETURN/SUBMIT A COPY OF THIS ADDENDUM WITH THEIR PROPOSAL. Company Name: Submitter’s Name/Title:...",
   "product_specification": null,
   "value": null
 }

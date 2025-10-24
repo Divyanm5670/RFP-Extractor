@@ -1,8 +1,8 @@
 {
-  "bid_number": "BPM044557",
+  "bid_number": null,
   "title": "Dell Laptops w/Extended Warranty",
-  "due_date": "2024-06-10",
-  "bid_submission_type": "RFP - Request for Proposal (Informal)",
+  "due_date": null,
+  "bid_submission_type": null,
   "term_of_bid": null,
   "pre_bid_meeting": null,
   "installation": null,
@@ -13,16 +13,16 @@
   "mfg_for_registration": null,
   "contract_or_cooperative_to_use": null,
   "model_no": null,
-  "part_no": "CC7802",
-  "product": "Dell Laptops (Latitude 5550) and Dell Thunderbolt 4 Docks",
+  "part_no": null,
+  "product": null,
   "contact_info": {
-    "contact_name": "Tamaira Hawkins",
+    "contact_name": null,
     "email": "Thawkins@treasurer.state.md.us",
-    "phone": "410-260-7533",
-    "company_name": "State of Maryland Treasurer's Office"
+    "phone": "00004079359",
+    "company_name": null
   },
-  "company_name": "State of Maryland Treasurer's Office",
-  "bid_summary": "This Request for Proposal (RFP) from the State of Maryland Treasurer's Office seeks bids for Dell Laptops with Extended Warranty. The solicitation includes Dell Latitude 5550 laptops (which must be Microsoft Copilot ready) and Dell Thunderbolt 4 Docks (model WD22TB4). The closing date for submissions is June 10, 2024.",
-  "product_specification": "The solicitation requires Dell Latitude 5550 laptops, specified as Microsoft Copilot ready. Additionally, Dell Thunderbolt 4 Docks, model WD22TB4, are required.",
+  "company_name": null,
+  "bid_summary": "Dell Laptops w/Extended Warranty - Bid Information - {3} | BidNet Direct Loading... Ok Skip to main content Go to homepage Solicitations Search Search Blank Envelope Matching Profiles...",
+  "product_specification": "Warranty - Bid Information - {3} | BidNet Direct",
   "value": null
 }

@@ -1,30 +1,27 @@
 {
   "bid_number": "JA-207652",
-  "title": "Student and Staff Computing Devices",
+  "title": "Address: City, State and Zip Code:",
   "due_date": null,
   "bid_submission_type": null,
-  "term_of_bid": "life of the contract",
+  "term_of_bid": null,
   "pre_bid_meeting": null,
-  "installation": "Deliveries and deployments must include white glove services, such as asset decaling, asset reporting, etching on laptops, and delivery to varied locations. For Windows devices, Autopilot is required; for Chromebooks, enrollment in Google Management is required. Both etching and asset tagging are required. No securing of desktops is required.",
+  "installation": "requirement?",
   "bid_bond_requirement": null,
-  "delivery_date": "Starting September 2024",
+  "delivery_date": null,
   "payment_terms": null,
   "additional_documentation_required": [
-    "Form 1295 - Certificate of Interested Parties",
-    "Signed Addendum No. 1",
-    "Copies of proposal",
-    "Additional warranty options and pricing",
-    "Additional non-warranty value-add options",
-    "Additional deployment service options",
-    "Table for discount percentage per tier",
-    "Break-fix repair programs information",
-    "Supporting documentation for extended responses"
+    "additional warranty information",
+    "deployment service options",
+    "FORM 1295",
+    "Form 1295",
+    "Form 1295",
+    "supporting documentation"
   ],
-  "mfg_for_registration": "OEM for all warranties",
+  "mfg_for_registration": null,
   "contract_or_cooperative_to_use": null,
   "model_no": null,
   "part_no": null,
-  "product": null,
+  "product": "RFP JA-207652 Student and Staff Computing Devices The Purpose of this Addendum is to provide responses to the vendors’ questions related to this RFP. 1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you",
   "contact_info": {
     "contact_name": null,
     "email": null,
@@ -32,7 +29,7 @@
     "company_name": "Dallas ISD"
   },
   "company_name": "Dallas ISD",
-  "bid_summary": "This addendum provides responses to vendor questions for RFP JA-207652, concerning student and staff computing devices. It clarifies requirements for delivery timelines, warranty specifications (OEM, duration, ADP), white-glove services, technical specifications (USB ports, webcam, chargers), required documentation, and submission guidelines.",
-  "product_specification": "Minimum USB 3.1 port required for non-touch display monitors. Etching is only required on laptops, but both etching and asset tagging are required for all devices. Warranties must be from the OEM: 1-year for student Chromebooks and 3-years for student and staff Windows laptops. Accidental Damage Protection is not required. AIO Desktops must include a webcam. Windows devices require Autopilot setup, and Chromebooks require Google Management enrollment. Laptop battery life is based on manufacturer specs. Minimum 65w chargers for Chromebooks.",
+  "bid_summary": "ADDENDUM No. 1 RFP JA-207652 Student and Staff Computing Devices The Purpose of this Addendum is to provide responses to the vendors’ questions related to this RFP. 1. The Display monitor – non-Touch you are asking for 3.1 USB port. Are you ok with 3.0 or do you need 3.1? Answer: USB 3.1 is a minimum requirement. 2. Are you ok with 3.2 USB port on the display? Answer: A higher specification is permissible. 3. When are you going to award this? Answer: This RFP is anticipated to be awarded at the August board meeting....",
+  "product_specification": "minimum requirement.",
   "value": null
 }
