@@ -1,4 +1,3 @@
-# rfp_extractor/pdf_extract.py
 import pdfplumber
 from typing import List
 import os
